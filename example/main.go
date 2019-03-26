@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/xiaosongfu/go-asciibot"
+	"github.com/xiaosongfu/asciibot"
 )
 
 func main() {
