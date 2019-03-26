@@ -1,3 +1,3 @@
-module github.com/mattes/go-asciibot
+module github.com/xiaosongfu/go-asciibot
 
 go 1.10
