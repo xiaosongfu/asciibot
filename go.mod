@@ -1,3 +1,3 @@
-module github.com/xiaosongfu/go-asciibot
+module github.com/xiaosongfu/asciibot
 
 go 1.12
